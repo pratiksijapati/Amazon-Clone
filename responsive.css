@@ -1,0 +1,100 @@
+@media(max-width: 600px){
+.nav-bar{
+height: auto;
+align-items:center;
+justify-content: center;
+}
+
+    .logo {
+    width: 80px;
+    height: 40px;
+    margin-top: 10px;
+}
+.nav_add{
+display: none;
+}
+.account {
+    font-size: 0.6rem;
+}
+span {
+    font-size: 0.6rem;
+}
+.nav-cart {
+    font-size: 0.6rem;
+    font-weight: 700;
+    margin-left: 0%;
+}
+.nav-cart i {
+    font-size: 20px;
+}
+.nav-search{
+    height: 25px;
+    width: 150px;
+    font-size: 0.5rem;
+}
+.nav-second{
+    height: 30px;
+    margin-left: 2%;
+    width: 70px;
+}
+.search-input {
+    font-size: 0.7rem;
+}
+.search-select{
+    font-size: 0.7rem;
+
+}
+.fa-magnifying-glass:before, .fa-search:before {
+    font-size: 0.9rem;
+}
+.panels-all{
+    font-size: 12px;
+}
+
+.panels-ops {
+    width: 200%;
+    font-size: 0.6rem;
+    
+}
+.panels-ops p{
+    margin-left: 5px;
+}
+.panels-deals{
+    font-size: 0.7rem;
+    width: 200px;
+}
+.hero-section {
+    height: 150px;
+    width: 100%;
+   
+}
+.hero-msg {
+    height: 30px;
+    font-size: 0.7rem;
+    margin-bottom: 10px;
+}
+.box-section{
+flex-direction: column;
+width: 90%;
+}
+.box{
+    width: 300px;
+    margin-left: 30px;
+}
+.foot-panel2 {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+ul {
+    margin-top: 20px;
+    width: 100px;
+}
+.foot-panel4 {
+    font-size: 0.7rem;
+}
+.foot-panel3{
+    height: auto;
+}
+}
